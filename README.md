@@ -169,7 +169,7 @@ Upload `test_data.csv` through the Streamlit application and select a classifica
 https://github.com/idevmou/MTech-DSE-ML-Assignment-2
 
 **Live Streamlit Application:**  
-https://mtechdsedrybean.streamlit.app/
+https://mtech-dse-ml-assignment-2.streamlit.app/
 
 ## 11. Conclusion
 
